@@ -1,5 +1,6 @@
-##Book Recommendation APP 
-#App Description:
+#Book Recommendation APP 
+
+##App Description:
 - Bookish is an iOS app developed in Swift that helps users explore and manage their reading journey with ease. Whether you're searching by title, author, or genre, Bookish provides detailed book information including ratings, genres, and release dates. Users can categorize books into Current Read, Wish List, and Have Read, and enjoy a clean, user-friendly interface with smooth tab navigation.
 
 🔑 Key Features:
